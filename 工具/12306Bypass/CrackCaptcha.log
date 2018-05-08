@@ -1,0 +1,48 @@
+2018-01-10 17:31:33.185 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-10 17:31:33.220 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-10 17:31:33.222 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
+2018-01-10 17:50:29.311 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-10 17:50:29.312 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-10 17:50:29.313 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
+2018-01-11 17:24:24.557 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-11 17:24:24.557 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-11 17:24:24.557 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
+2018-01-11 17:24:28.464 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-11 17:24:28.465 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-11 17:24:28.465 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
+2018-01-11 19:28:31.139 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-11 19:28:31.139 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-11 19:28:31.140 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
+2018-01-11 19:32:36.291 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-11 19:32:36.292 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-11 19:32:36.293 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
+2018-01-12 14:23:44.064 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-12 14:23:44.065 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-12 14:23:44.066 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
+2018-01-12 17:05:05.688 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-12 17:05:05.690 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-12 17:05:05.691 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
+2018-01-15 14:43:33.698 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-15 14:43:33.699 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-15 14:43:33.699 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 16ms)
+2018-01-15 14:55:48.698 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-15 14:55:48.699 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-15 14:55:48.700 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
+2018-01-16 09:44:37.172 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-16 09:44:37.173 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-16 09:44:37.173 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
+2018-01-16 16:08:56.200 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-16 16:08:56.202 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-16 16:08:56.203 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
+2018-01-16 17:48:53.067 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-16 17:48:53.068 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-16 17:48:53.069 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
+2018-01-16 19:27:10.406 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-16 19:27:10.406 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-16 19:27:10.406 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
+2018-01-18 19:00:38.729 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-18 19:00:38.729 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-18 19:00:38.729 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
+2018-01-19 15:28:59.199 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
+2018-01-19 15:28:59.220 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
+2018-01-19 15:28:59.221 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
